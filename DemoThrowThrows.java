@@ -3,6 +3,10 @@
 // it is used to re throw the exception
 // it can be used to change the message of the exception
 // it is used to throw the exception manually
+//throws keyword is used in the header and it is used to let the invoking method called know that the method may throw an exception
+// and they can handled in a specific way
+// and when throws keyboard you might have to handle the exception within the calling method
+//you can kick the can of handling the exception to the invoking method
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
