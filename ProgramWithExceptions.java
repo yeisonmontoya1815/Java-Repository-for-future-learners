@@ -2,20 +2,41 @@ import java.util.Scanner;
 
 public class ProgramWithExceptions {
     public static void main(String[] args) {
-     Scanner s = new Scanner(System.in);   
-        int a = s.nextInt();
-        int b = s.nextInt();
+        Scanner s = new Scanner(System.in);
 
-        System.out.println("Enter the value of a: " + a);
-        a = s.nextInt();
-        System.out.println("Enter the value of b: " + b);
-        b = s.nextInt();
+        int sum = 0;
+        int quotient = 0;
+        
+        // An exception is a runtime error
+        // all the exceptions inherit from exception class
+        // unchecked exceptions: can be left unhandled. will not give a compile time
+        // error
+        // chacek exceptions: they have to be handled. will give a compile time error
 
-        int sum = a + b;
-        int quotient = a / b;
+        // the lines of code whcih might cause the program to fail are placed inside the
+        // try block
 
-        System.out.println("the sum of the two numbers is: " + sum);
-        System.out.println("the quotient of the two numbers is: " + quotient);
+        // a try block is always accompained by either a catch block or a finally block
+        // or both
+
+        // I can have multiple catch options associated with the try block
+        // the most specific catch bolck has to bo placed first before the general catch clause
+        // if this is not followed it will compile time error
+        try {
+            System.out.println("Enter the value of a: ");
+            int a = s.nextInt();
+            System.out.println("Enter the value of b: ");
+            int b = s.nextInt();
+
+            int sum = a + b;
+            int quotient = a / b;
+
+            System.out.println("the sum of the two numbers is: " + sum);
+            System.out.println("the quotient of the two numbers is: " + quotient);
+        }  
+        catch (Exception e) {
+            System.out.println("please enter a valid integer number, a non zero value is not allowed");
+        }   
     }
 }
 
@@ -36,4 +57,8 @@ public class ProgramWithExceptions {
  * 4. integral division by zero
  * 5. NumberFormatException
  * 6. RuntimeException
+ * 
+ * 
+ * try { // code that may throw an exception }
+ * catch (ExceptionType name) { // code to handle the exception }
  */
