@@ -1,3 +1,4 @@
+package HandlingExceptions;
 import java.util.Scanner;
 
 public class nestedTry {

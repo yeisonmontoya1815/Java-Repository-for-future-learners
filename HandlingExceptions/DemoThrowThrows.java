@@ -1,3 +1,4 @@
+package HandlingExceptions;
 //throw and throws are the keywords in Java which are used to handle the exception explicitly.
 //it is mostly used to throw the USER DEFINED Exceptions
 // it is used to re throw the exception
