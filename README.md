@@ -43,10 +43,10 @@ This repository is designed to:
 To get started with the repository:
 
 1. Clone the repository to your local machine:
-   ```bash
+```bash
    git clone https://github.com/yeisonmontoya1815/Java-Repository-for-future-learners.git
    Navigate to the project directory:
-   ```
+```
 
 ```bash
 cd Java-Repository-for-Future-Learners
@@ -70,38 +70,49 @@ Java-Repository-for-Future-Learners/
 ├── Lecture 8 – Interfaces and casting/
 ├── Lecture 9 – Handling Exceptions/
 ├── Lecture 10 – SQL and java Database Connection/
-└── README.md
 ```
 
 ## Lecture Overview 🎓
 
 Lecture 1: Learn how to define and use methods in Java.
+
 Lecture 2: Explore Java classes, fields, and methods.
+
 Lecture 3: Understand the basics of arrays in Java.
+
 Lecture 4: Dive into variable arguments and wrapper methods.
+
 Lecture 5: Work with advanced array concepts.
+
 Lecture 6: Study string methods and user-defined examples.
+
 Lecture 7: Discover inheritance and its applications.
+
 Lecture 8: Learn about interfaces, type casting, and polymorphism.
+
 Lecture 9: Master exception handling techniques.
+
 Lecture 10: Connect Java to databases using SQL.
 
 ## Installation 🛠️
 
 This repository contains standalone Java files. To run the code, you need:
 
-- Java Development Kit (JDK): Install the latest version from Oracle JDK or OpenJDK.
-- IDE/Text Editor: Use any Java-supported IDE like IntelliJ IDEA, Eclipse, or Visual Studio Code.
+- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html): Install the latest version from Oracle JDK or [OpenJDK](https://openjdk.java.net/install/).
+
+- [IDE/Text Editor](https://www.jetbrains.com/idea/download/): Use any Java-supported IDE like [IntelliJ IDEA](https://www.jetbrains.com/idea/download/), [Eclipse](https://www.eclipse.org/downloads/), or [Visual Studio Code](https://code.visualstudio.com/Download).
+
 
 ## Learning Resources 📖
 
 Here are some excellent external resources to deepen your understanding of Java:
 
-- Java Documentation (Official) 📚
-- W3Schools Java Tutorial 🌐
-- GeeksforGeeks Java Guide 💡
-- Codecademy Java Course 🎓
-- Baeldung Java Tutorials 💻
+- [Java Documentation (Official) 📚](https://docs.oracle.com/en/java/)
+- [W3Schools Java Tutorial 🌐](https://www.w3schools.com/java/)
+- [GeeksforGeeks Java Guide 💡](https://www.geeksforgeeks.org/java/)
+- [Codecademy Java Course 🎓](https://www.codecademy.com/learn/learn-java)
+- [Baeldung Java Tutorials 💻](https://www.baeldung.com/)
+
 
 ## Contributing 🤝
 
