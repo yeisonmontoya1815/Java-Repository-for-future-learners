@@ -50,9 +50,9 @@ The repository is organized into the following lectures:
 Java-Repository-for-Future-Learners/
 ├── Lecture 1 – Methods/
 ├── Lecture 2 – Classes/
-├── Lecture 3 – Arrays Basics/
+├── Lecture 3 – Arrays I/
 ├── Lecture 4 – var args, wrapper method/
-├── Lecture 5 – Arrays/
+├── Lecture 5 – Arrays II/
 ├── Lecture 6 – StringMeths, userdefined/
 ├── Lecture 7 – Inheritance/
 ├── Lecture 8 – Interfaces and casting/
