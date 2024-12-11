@@ -2,19 +2,7 @@
 
 Welcome to the **Java Repository for Future Learners**! This repository is a comprehensive resource hub for learning Java, featuring beginner-friendly tutorials, intermediate exercises, and advanced concepts. Whether you're new to programming or looking to deepen your Java expertise, this repository has something for you.
 
----
-
-## Table of Contents 📚
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Directory Structure](#directory-structure)
-- [Installation](#installation)
-- [Learning Resources](#learning-resources)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+### Repository Owner: yeison
 
 ---
 
@@ -144,6 +132,4 @@ Create a pull request describing your changes.
 
 If you have questions or suggestions, feel free to reach out:
 
-## Repository Owner: yeison
-
-# **Happy Coding!** 🎉💡
+# *Happy Coding!* 🎉💡
